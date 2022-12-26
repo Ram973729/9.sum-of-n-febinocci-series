@@ -2,7 +2,6 @@
 n=int(input('Enter any number:'))
 a=0
 b=1
-c=0
 sum=0
 while(n!=0):
     print(a)
